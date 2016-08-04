@@ -1,0 +1,28 @@
+_repo: The-Freedom-of-Life_4338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Call, Annie Payson
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '1451'
+    url: http://www.gutenberg.org/2009/agents/1451
+description: ''
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental health'
+- !lcc 'RA'
+- GITenberg
+tableOfContents: The freedom of life -- How to sleep restfully -- Resistance -- Hurry,
+  worry, and irritability -- Nervous fears -- Self-consciousness -- The circumstances
+  of life -- Other people -- Human sympathy -- Personal independence -- Self-control
+  -- The religion of it -- About Christmas -- To mothers.
+title: The Freedom of Life
+url: http://www.gutenberg.org/ebooks/4338
